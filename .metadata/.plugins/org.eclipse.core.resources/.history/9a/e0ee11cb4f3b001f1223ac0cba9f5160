@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>My Calculator 2024</h1>
+<form method="post" action="Calculator">
+	Firstnumber<input type="number" name=t1><br>
+	Secondnumber<input type="number" name=t2><br>
+	<input type="radio" name="r1" value="add">Addition
+	<input type="radio" name="r2" value="sub">Subtraction
+	<input type="radio" name="r3" value="mult">Multiplication
+	<input type="radio" name="r4" value="Div">Division
+	<input type="submit">
+</form>
+</body>
+</html>
